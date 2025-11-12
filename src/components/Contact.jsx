@@ -42,7 +42,7 @@ const Contact = () => {
         viewport={{ once: true, amount: 0.2 }}
         className="text-4xl lg:text-5xl font-bold text-center text-white mb-12"
       >
-        Get In <span className="text-amber-500">Touch</span>
+        Get In <span className="text-rose-500">Touch</span>
       </motion.h2>
 
       {/* Contact Info Container */}
