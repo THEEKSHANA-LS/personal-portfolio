@@ -1,7 +1,5 @@
 export const HERO_CONTENT = ` I'm a Software Technology Undergraduate student at the Faculty Of Technology University of Sri Jayewardenepura, passionate about web development in MERN Stack, UI/UX design, and building user-friendly web applications. I enjoy learning new technologies and applying them to real-world projects.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
-
 //education...
 export const EDUCATION = [
   {
@@ -66,6 +64,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Pitipana North Homagama, Sri Lanka",
-  phoneNo: "146823749239 ",
-  email: "contact@gmail.com",
+  phoneNo: "078 88 58300 ",
+  email: "sanduntheekshana27@gmail.com",
 };
