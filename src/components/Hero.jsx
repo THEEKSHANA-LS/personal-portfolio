@@ -17,11 +17,11 @@ const Hero = () => {
             <motion.img
               src="profile.png"
               alt="Sandun Theekshana"
-              className="border border-stone-700 rounded-[50%_10%_50%_10%/50%_10%_50%_10%] object-cover shadow-2xl w-72 h-72 lg:w-96 lg:h-96"
+              className="border border-stone-700 rounded-full object-cover shadow-2xl w-72 h-72 lg:w-96 lg:h-96"
               whileHover={{ scale: 1.05, rotate: 2 }}
               transition={{ type: "spring", stiffness: 120 }}
             />
-            <div className="absolute inset-0 rounded-[50%_10%_50%_10%/50%_10%_50%_10%] bg-gradient-to-r from-stone-400/10 to-white/5 blur-3xl"></div>
+            <div className="absolute inset-0 rounded-full bg-gradient-to-r from-stone-400/10 to-white/5 blur-3xl"></div>
           </div>
         </motion.div>
 
