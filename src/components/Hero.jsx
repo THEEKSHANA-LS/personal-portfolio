@@ -5,7 +5,7 @@ import { HERO_CONTENT } from "../constants/index.js";
 const Hero = () => {
   return (
     <section className="relative overflow-hidden pb-16 lg:mb-36 bg-gradient-to-b from-stone-900 via-stone-950 to-black text-white">
-      <div className="flex flex-wrap items-center justify-center lg:flex-row-reverse lg:justify-between max-w-7xl mx-auto px-6">
+      <div className="flex flex-wrap items-center justify-center lg:flex-row-reverse lg:justify-between max-w-7xl mx-auto px-4">
         {/* Profile Image */}
         <motion.div
           initial={{ opacity: 0, x: 100 }}
