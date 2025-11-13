@@ -85,7 +85,7 @@ const Contact = () => {
             className="text-lg text-gray-200 hover:text-cyan-400 transition-colors duration-300 border-b border-transparent hover:border-cyan-400"
             whileHover={{ y: -2 }}
           >
-            {CONTACT.email}
+            Contact Via Email
           </motion.a>
         </motion.div>
       </motion.div>

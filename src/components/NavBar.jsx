@@ -9,7 +9,7 @@ const NavBar = () => {
             <h1 className="text-2xl font-bold text-stone-200">Sandun Theekshana</h1>
         </a>
       </div>
-      <div className="m-8 flex items-center justify-center gap-4 text-2xl">
+      <div className="m-8 flex items-center justify-center gap-3 text-2xl">
         <a href = "https://www.linkedin.com/in/sandun-theekshana-2a4b682b9/"
            target="_blank"
            rel="noopener noreferrer"
@@ -27,4 +27,4 @@ const NavBar = () => {
   )
 }
 
-export default NavBar
+export default NavBar;
