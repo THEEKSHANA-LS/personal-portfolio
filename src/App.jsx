@@ -5,6 +5,7 @@ import Skills from "./components/Skills.jsx";
 import Projects from "./components/Projects.jsx";
 import Education from "./components/Education.jsx";
 import Contact from "./components/Contact.jsx";
+import Certification from "./components/Certification.jsx";
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Skills/>
         <Projects/>
         <Education/>
+        <Certification/>
         <Contact/>
       </div>
     </div>

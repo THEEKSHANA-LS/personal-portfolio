@@ -62,6 +62,30 @@ export const PROJECTS = [
   
 ];
 
+export const CERTIFICATIONS = [
+  {
+    title : "Web Design for Beginners - University of Moratuwa",
+    imageUrl : "dpEducation.jpg",
+  },
+  {
+    title : "UX/UI Beginners Course - Great Learning",
+    imageUrl : "ux-ui.jpg",
+  },
+  {
+    title : "Frontend Web Development Course - Great Learning",
+    imageUrl : "frontendDev.jpg",
+  },
+  {
+    title : "Web Development - Introduction to C# - SimpliLearn",
+    imageUrl : "webDev.jpg",
+  },
+  {
+    title : "Introduction to C# - SoloLearn",
+    imageUrl : "sololearn.jpg",
+  },
+
+];
+
 export const CONTACT = {
   address: "Pitipana North Homagama, Sri Lanka",
   phoneNo: "078 88 58300 ",
