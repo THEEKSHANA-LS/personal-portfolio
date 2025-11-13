@@ -56,7 +56,7 @@ export const PROJECTS = [
     desc: "A React-based single page web site developed using React, Tailwind CSS, and Framer Motion, with integrated contact form via EmailJs.",
     imageUrl: "portfolio.png", 
     tech: ["React JS", "Tailwind CSS", "Framer Motion", "EmailJs"],
-    link: "sandun-theekshana-portfolio.vercel.app",
+    link: "https://sandun-theekshana-portfolio.vercel.app/",
     github: "https://github.com/THEEKSHANA-LS/my-portfolio.git",
   },
   
