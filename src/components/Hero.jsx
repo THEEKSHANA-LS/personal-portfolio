@@ -17,7 +17,7 @@ const Hero = () => {
             <motion.img
               src="profile.png"
               alt="Sandun Theekshana"
-              className="border border-stone-700 rounded-full object-cover shadow-2xl w-72 h-72 lg:w-96 lg:h-96"
+              className="border border-stone-700 rounded-full object-cover shadow-2xl w-60 h-60 lg:w-96 lg:h-96"
               whileHover={{ scale: 1.05, rotate: 2 }}
               transition={{ type: "spring", stiffness: 120 }}
             />
