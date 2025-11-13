@@ -21,7 +21,7 @@ const Hero = () => {
               whileHover={{ scale: 1.05, rotate: 2 }}
               transition={{ type: "spring", stiffness: 120 }}
             />
-            <div className="absolute inset-0 rounded-full bg-gradient-to-r from-stone-400/10 to-white/5 blur-3xl"></div>
+            <div className="absolute inset-0 rounded-full bg-gradient-to-r from-stone-400/10 to-white/5 blur-3xl -z-10"></div>
           </div>
         </motion.div>
 
