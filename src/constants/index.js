@@ -75,14 +75,14 @@ export const CERTIFICATIONS = [
     title : "Frontend Web Development Course - Great Learning",
     imageUrl : "frontendDev.jpg",
   },
-  {
+  /*{
     title : "Web Development - Introduction to C# - SimpliLearn",
     imageUrl : "webDev.jpg",
-  },
-  {
+  },*/
+  /*{
     title : "Introduction to C# - SoloLearn",
     imageUrl : "sololearn.jpg",
-  },
+  },*/
 
 ];
 

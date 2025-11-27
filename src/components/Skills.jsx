@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaFigma, FaGitAlt, FaNodeJs } from 'react-icons/fa';
 import { RiReactjsLine, RiTailwindCssFill } from 'react-icons/ri';
-import { SiMongodb, SiPostman, SiExpress } from 'react-icons/si';
+import { SiMongodb, SiPostman, SiExpress, SiSupabase } from 'react-icons/si';
 import { motion } from 'framer-motion';
 
 // Variants for the icon container
@@ -39,6 +39,7 @@ const Skills = () => {
     { icon: FaGitAlt, color: 'text-orange-600', name: 'Git' },
     { icon: SiPostman, color: 'text-amber-500', name: 'Postman' },
     { icon: FaFigma, color: 'text-purple-500', name: 'Figma' },
+    { icon: SiSupabase, color: 'text-green-600', name: 'Supabase' },
   ];
 
   return (

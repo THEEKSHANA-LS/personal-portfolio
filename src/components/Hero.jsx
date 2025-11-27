@@ -47,7 +47,7 @@ const Hero = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5 }}
           >
-            Full Stack Web Developer
+            MERN Stack Developer
           </motion.span>
 
           <motion.p
@@ -60,7 +60,7 @@ const Hero = () => {
           </motion.p>
 
           <motion.a
-            href="/cv.pdf"
+            href="/Sandun_Theekshana_cv.pdf"
             target="_blank"
             rel="noopener noreferrer"
             download
