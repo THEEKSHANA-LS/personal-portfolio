@@ -47,7 +47,7 @@ const Hero = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5 }}
           >
-            MERN Stack Developer
+            Web Developer
           </motion.span>
 
           <motion.p
