@@ -64,6 +64,10 @@ export const PROJECTS = [
 
 export const CERTIFICATIONS = [
   {
+    title : "Full-Stack Web Development (MERN) - SkyRek",
+    imageUrl : "skyrek.png",
+  },
+  {
     title : "Web Design for Beginners - University of Moratuwa",
     imageUrl : "dpEducation.jpg",
   },
