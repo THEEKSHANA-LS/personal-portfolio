@@ -32,7 +32,7 @@ export const PROJECTS = [
     desc: "A React-based web application that offers a seamless shopping experience for casual wear enthusiasts, featuring product browsing, cart management, and secure checkout.",
     imageUrl: "casualClub.png", 
     tech: ["React JS", "Express.js", "TailwindCSS", "JavaScript", "Node.js", "MongoDB", "NodeMailer"],
-    link: "#", // Placeholder for live link
+    link: "https://casual-club.vercel.app/", // Placeholder for live link
     github: "https://github.com/THEEKSHANA-LS/cbc-backend.git",
   },
   {
