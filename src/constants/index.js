@@ -52,6 +52,14 @@ export const PROJECTS = [
     github: "https://github.com/THEEKSHANA-LS/mern-auth-system.git",
   },
   {
+    title: "ServiceLink mobile application - Group Project",
+    desc: "Developed Node.js backend for flutter and mongodb based mobile application as academic group project. ServiceLink is a platform connecting service providers with customers for various services.",
+    imageUrl: "serviceLink.png", 
+    tech: ["Node.js", "MongoDB", "Express", "JWT"],
+    link: "",
+    github: "https://github.com/THEEKSHANA-LS/ServiceLink-.git",
+  },
+  {
     title: "Personal Portfolio Website",
     desc: "A React-based single page web site developed using React, Tailwind CSS, and Framer Motion, with integrated contact form via EmailJs.",
     imageUrl: "portfolio.png", 
