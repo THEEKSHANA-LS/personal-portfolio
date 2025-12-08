@@ -36,6 +36,14 @@ export const PROJECTS = [
     github: "https://github.com/THEEKSHANA-LS/cbc-backend.git",
   },
   {
+    title: "ServiceLink mobile application - Group Project",
+    desc: "Developed Node.js backend for flutter and mongodb based mobile application as academic group project. ServiceLink is a platform connecting service providers with customers for various services.",
+    imageUrl: "serviceLink.png", 
+    tech: ["Node.js", "MongoDB", "Express", "JWT"],
+    link: "",
+    github: "https://github.com/THEEKSHANA-LS/ServiceLink-.git",
+  },
+  {
     title: "IntelliPrep (AI-Powered Interview Preparation Platform)",
     desc: "A React-based web application that leverages AI to help users prepare for interviews with personalized questions and feedback.",
     imageUrl: "IntelliPrep.png", 
@@ -50,14 +58,6 @@ export const PROJECTS = [
     tech: ["React JS", "Node.js", "MongoDB", "Express", "NodeMailer", "Brevo"],
     link: "#",
     github: "https://github.com/THEEKSHANA-LS/mern-auth-system.git",
-  },
-  {
-    title: "ServiceLink mobile application - Group Project",
-    desc: "Developed Node.js backend for flutter and mongodb based mobile application as academic group project. ServiceLink is a platform connecting service providers with customers for various services.",
-    imageUrl: "serviceLink.png", 
-    tech: ["Node.js", "MongoDB", "Express", "JWT"],
-    link: "",
-    github: "https://github.com/THEEKSHANA-LS/ServiceLink-.git",
   },
   {
     title: "Personal Portfolio Website",
