@@ -3,8 +3,8 @@ export const HERO_CONTENT = ` I'm a Software Technology Undergraduate student at
 //education...
 export const EDUCATION = [
   {
-    year: "2022 – Present",
-    degree: "B (Hons) in Information and Communication Technology",
+    year: "2023 – Present",
+    degree: "Bachelors of Information and Communication Technology (Hons)",
     school: "University of Sri Jayewardenepura",
     desc: "Focusing on Web Development and Software Engineering.",
     active: true
