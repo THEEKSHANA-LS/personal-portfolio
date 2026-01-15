@@ -47,7 +47,7 @@ const Hero = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5 }}
           >
-            Web Developer
+            Software Technology Undergraduate
           </motion.span>
 
           <motion.p
