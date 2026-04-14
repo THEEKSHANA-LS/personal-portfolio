@@ -27,6 +27,14 @@ export const EDUCATION = [
 
 //my projects...
 export const PROJECTS = [
+   {
+    title: "Weather App",
+    desc: "This is simple flutter based simple weather app using weather api",
+    imageUrl: "weather app.png", 
+    tech: ["Flutter","weather API",],
+    link: "#",
+    github: "https://github.com/THEEKSHANA-LS/test_app_flutter.git",
+  },
   {
     title: "Casual Club (E-commerce Platform for Casual Wear)",
     desc: "A React-based web application that offers a seamless shopping experience for casual wear enthusiasts, featuring product browsing, cart management, and secure checkout.",
