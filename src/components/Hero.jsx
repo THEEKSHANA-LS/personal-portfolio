@@ -15,7 +15,7 @@ const Hero = () => {
         >
           <div className="relative">
             <motion.img
-              src="profile.png"
+              src="profile_new.png"
               alt="Sandun Theekshana"
               className="border border-stone-700 rounded-full object-cover shadow-2xl w-60 h-60 lg:w-96 lg:h-96"
               whileHover={{ scale: 1.05, rotate: 2 }}
