@@ -36,6 +36,14 @@ export const PROJECTS = [
     github: "https://github.com/THEEKSHANA-LS/test_app_flutter.git",
   },
   {
+    title: "Bus seat Booking Web Application Backend",
+    desc: "This is a simple bus seat booking web application backend developed using Node.js, Express, and MongoDB. It provides APIs for managing bus routes, seat availability, and booking functionality.",
+    imageUrl: "bus_seat_booking.png", 
+    tech: ["Node.js", "Express", "MongoDB"],
+    link: "#",
+    github: "https://github.com/THEEKSHANA-LS/Bus-Seat-Booking-Application.git",
+  },
+  {
     title: "Casual Club (E-commerce Platform for Casual Wear)",
     desc: "A React-based web application that offers a seamless shopping experience for casual wear enthusiasts, featuring product browsing, cart management, and secure checkout.",
     imageUrl: "casualClub.png", 
