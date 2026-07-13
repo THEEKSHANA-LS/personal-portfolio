@@ -29,7 +29,7 @@ export const EDUCATION = [
 export const PROJECTS = [
   {
     title: "PodiWeda-LK Mobile App",
-    desc: "This is local part-time and full time job finding mobile application",
+    desc: "Developed a mobile application for connecting users with part-time job opportunities. Implemented user authentication, job posting, job search, REST API integration and MongoDB database management.",
     imageUrl: "PodiWeda-LK.png", 
     tech: ["Flutter","Node.js","MongoDB","Cloudinary","Gemini API","JSON web token"],
     link: "#",
