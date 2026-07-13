@@ -1,4 +1,4 @@
-export const HERO_CONTENT = ` I'm a Software Technology Undergraduate student at the Faculty Of Technology University of Sri Jayewardenepura, passionate about web development in MERN Stack, UI/UX design, and building user-friendly web applications. I enjoy learning new technologies and applying them to real-world projects.`;
+export const HERO_CONTENT = `I'm ICT undergraduate at the University of Sri Jayewardenepura with six months of industry experience as a Flutter Developer Intern at Sri Lanka Telecom PLC (SLT). Experienced in Flutter, Node.js, React.js, MongoDB and REST APIs. Passionate about mobile, backend and AI-powered applications.`;
 
 //education...
 export const EDUCATION = [
@@ -27,7 +27,15 @@ export const EDUCATION = [
 
 //my projects...
 export const PROJECTS = [
-   {
+  {
+    title: "PodiWeda-LK Mobile App",
+    desc: "This is local part-time and full time job finding mobile application",
+    imageUrl: "PodiWeda-LK.png", 
+    tech: ["Flutter","Node.js","MongoDB","Cloudinary","Gemini API","JSON web token"],
+    link: "#",
+    github: "https://github.com/THEEKSHANA-LS/test_app_flutter.git",
+  }, 
+  {
     title: "Weather App",
     desc: "This is simple flutter based simple weather app using weather api",
     imageUrl: "weather app.png", 
