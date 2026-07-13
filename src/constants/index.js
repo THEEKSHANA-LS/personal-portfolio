@@ -33,7 +33,7 @@ export const PROJECTS = [
     imageUrl: "PodiWeda-LK.png", 
     tech: ["Flutter","Node.js","MongoDB","Cloudinary","Gemini API","JSON web token"],
     link: "#",
-    github: "https://github.com/THEEKSHANA-LS/test_app_flutter.git",
+    github: "https://github.com/THEEKSHANA-LS/Job-App.git",
   }, 
   {
     title: "Weather App",
